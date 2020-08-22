@@ -1,0 +1,18 @@
+D:\工作经历\My Portfolio\03. C#\01. 计算器\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\工作经历\My Portfolio\03. C#\01. 计算器\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\工作经历\My Portfolio\03. C#\01. 计算器\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\工作经历\My Portfolio\03. C#\01. 计算器\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\工作经历\My Portfolio\03. C#\01. 计算器\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\工作经历\My Portfolio\03. C#\01. 计算器\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\工作经历\My Portfolio\03. C#\01. 计算器\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\工作经历\My Portfolio\03. C#\01. 计算器\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\工作经历\My Portfolio\03. C#\01. 计算器\Calculator\Calculator\obj\Debug\Calculator.frm_main.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\新建文件夹\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\新建文件夹\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\新建文件夹\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\新建文件夹\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\新建文件夹\Calculator\Calculator\obj\Debug\Calculator.frm_main.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\新建文件夹\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\新建文件夹\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\新建文件夹\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\新建文件夹\Calculator\Calculator\obj\Debug\Calculator.pdb
